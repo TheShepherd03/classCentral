@@ -1,0 +1,8 @@
+-qwr2%e1C2%Pns0u1%s%uN0%I0p3DaK0H0%kf2A250000%c1%f#f -F "HyperBrowser (Cray; I; OrganicOS 9.7.42beta-27)" -%F "" -%l "en, *" https://www.classcentral.com/ -O1 "C:\Users\Sakhi\Desktop\classCentral\try" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+File generated automatically on Wed, 22 Feb 2023 01:55:50, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

@@ -1,0 +1,497 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 22 Feb 2023 01:55:50 at https://www.classcentral.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwr2%e1C2%Pns0u1%s%uN0%I0p3DaK0H0%kf2A250000%c1%f#f -F "HyperBrowser (Cray; I; OrganicOS 9.7.42beta-27)" -%F  -%l "en, *" https://www.classcentral.com/ -O1 "C:\Users\Sakhi\Desktop\classCentral\try" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:12:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business (from https://www.classcentral.com/)
+02:12:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/humanities (from https://www.classcentral.com/)
+02:13:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/science (from https://www.classcentral.com/)
+02:13:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/education (from https://www.classcentral.com/)
+02:13:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/social-sciences (from https://www.classcentral.com/)
+02:13:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-science (from https://www.classcentral.com/)
+02:13:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-and-software-development (from https://www.classcentral.com/)
+02:13:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/infosec (from https://www.classcentral.com/)
+02:32:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/information-technology (from https://www.classcentral.com/)
+02:32:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/computer-networking (from https://www.classcentral.com/)
+02:32:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/machine-learning (from https://www.classcentral.com/)
+02:33:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/devops (from https://www.classcentral.com/)
+02:33:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/deep-learning (from https://www.classcentral.com/)
+02:33:25	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/quantum-computing (from https://www.classcentral.com/)
+02:34:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/distributed-systems (from https://www.classcentral.com/)
+02:34:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/blockchain (from https://www.classcentral.com/)
+02:34:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/computer-graphics (from https://www.classcentral.com/)
+02:35:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/disease-and-disorders (from https://www.classcentral.com/)
+02:35:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/public-health (from https://www.classcentral.com/)
+02:35:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nursing (from https://www.classcentral.com/)
+02:35:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/anatomy (from https://www.classcentral.com/)
+02:35:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cme (from https://www.classcentral.com/)
+02:36:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/foundations-of-mathematics (from https://www.classcentral.com/)
+02:36:05	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/calculus (from https://www.classcentral.com/)
+02:36:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/trigonometry (from https://www.classcentral.com/)
+02:36:26	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/geometry (from https://www.classcentral.com/)
+02:36:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/precalculus (from https://www.classcentral.com/)
+02:36:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/number-theory (from https://www.classcentral.com/)
+02:37:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mathematical-logic (from https://www.classcentral.com/)
+02:37:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/linear-programming (from https://www.classcentral.com/)
+02:37:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/finance (from https://www.classcentral.com/)
+02:37:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/entrepreneurship (from https://www.classcentral.com/)
+02:37:46	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/strategic-management (from https://www.classcentral.com/)
+02:37:46	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/industry-specific (from https://www.classcentral.com/)
+02:38:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/accounting (from https://www.classcentral.com/)
+02:38:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/human-resources (from https://www.classcentral.com/)
+02:38:18	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sales (from https://www.classcentral.com/)
+02:38:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business-software (from https://www.classcentral.com/)
+02:38:41	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/risk-management (from https://www.classcentral.com/)
+02:38:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/customer-service (from https://www.classcentral.com/)
+02:38:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nonprofit (from https://www.classcentral.com/)
+02:39:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/operations-management (from https://www.classcentral.com/)
+02:39:12	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/history (from https://www.classcentral.com/)
+02:39:31	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/language-learning (from https://www.classcentral.com/)
+02:39:31	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/grammar-writing (from https://www.classcentral.com/)
+02:39:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/religion (from https://www.classcentral.com/)
+02:40:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/culture (from https://www.classcentral.com/)
+02:40:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sports (from https://www.classcentral.com/)
+02:41:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/ethics (from https://www.classcentral.com/)
+02:41:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/linguistics (from https://www.classcentral.com/)
+02:42:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/library-science (from https://www.classcentral.com/)
+02:42:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/reading (from https://www.classcentral.com/)
+02:42:25	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/electrical-engineering (from https://www.classcentral.com/)
+02:42:25	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mechanical-engineering (from https://www.classcentral.com/)
+02:42:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/robotics (from https://www.classcentral.com/)
+02:42:44	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nanotechnology (from https://www.classcentral.com/)
+02:43:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/textiles (from https://www.classcentral.com/)
+02:43:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/manufacturing (from https://www.classcentral.com/)
+02:43:34	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cad (from https://www.classcentral.com/)
+02:43:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/energy-systems (from https://www.classcentral.com/)
+02:43:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/aerospace-engineering (from https://www.classcentral.com/)
+02:44:45	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/physics (from https://www.classcentral.com/)
+02:44:45	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/environmental-science (from https://www.classcentral.com/)
+02:45:03	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/biology (from https://www.classcentral.com/)
+02:45:22	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/materials-science (from https://www.classcentral.com/)
+02:45:22	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/earth-science (from https://www.classcentral.com/)
+02:45:43	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/forensic-science (from https://www.classcentral.com/)
+02:45:43	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/k12 (from https://www.classcentral.com/)
+02:46:43	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/stem (from https://www.classcentral.com/)
+02:46:43	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/teacher-development (from https://www.classcentral.com/)
+02:47:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/online-education (from https://www.classcentral.com/)
+02:47:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/test-prep (from https://www.classcentral.com/)
+02:47:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sociology (from https://www.classcentral.com/)
+02:47:38	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/psychology (from https://www.classcentral.com/)
+02:47:38	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/anthropology (from https://www.classcentral.com/)
+02:47:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/law (from https://www.classcentral.com/)
+02:47:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/urban-planning (from https://www.classcentral.com/)
+02:48:16	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sustainability (from https://www.classcentral.com/)
+02:48:16	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/governance (from https://www.classcentral.com/)
+02:48:33	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/social-work (from https://www.classcentral.com/)
+02:49:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-media (from https://www.classcentral.com/)
+02:49:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/visual-arts (from https://www.classcentral.com/)
+02:50:10	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/bioinformatics (from https://www.classcentral.com/)
+02:50:10	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/big-data (from https://www.classcentral.com/)
+02:50:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-analysis (from https://www.classcentral.com/)
+02:50:30	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-visualization (from https://www.classcentral.com/)
+02:50:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mobile-development (from https://www.classcentral.com/)
+02:50:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/web-development (from https://www.classcentral.com/)
+02:51:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/game-development (from https://www.classcentral.com/)
+02:51:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-languages (from https://www.classcentral.com/)
+02:52:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cloud-computing (from https://www.classcentral.com/)
+02:52:20	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/career-development (from https://www.classcentral.com/)
+02:52:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/presentation-skills (from https://www.classcentral.com/)
+02:52:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/resilience (from https://www.classcentral.com/)
+02:53:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/network-security (from https://www.classcentral.com/)
+02:53:15	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/ethical-hacking (from https://www.classcentral.com/)
+02:54:24	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/reverse-engineering (from https://www.classcentral.com/)
+02:54:24	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pentesting (from https://www.classcentral.com/)
+02:54:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/devsecops (from https://www.classcentral.com/)
+02:54:40	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/osint (from https://www.classcentral.com/)
+02:55:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/infosec-certifications (from https://www.classcentral.com/)
+02:55:04	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/red-team (from https://www.classcentral.com/)
+03:00:14	Error: 	"Not Found" (404) at link https://www.classcentral.com/images/illustrations/homepage-discover-01.png (from https://www.classcentral.com/)
+03:10:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/unccelearn (from https://www.classcentral.com/)
+03:24:29	Warning: 	Moved Permanently for https://www.classcentral.com/report/google-free-certificates/
+03:24:29	Warning: 	File has moved from https://www.classcentral.com/report/google-free-certificates/ to https://www.classcentral.com/report/free-google-certifications/
+03:25:11	Warning: 	Moved Permanently for https://www.classcentral.com/collection/ivy-league-moocs/
+03:25:11	Warning: 	File has moved from https://www.classcentral.com/collection/ivy-league-moocs/ to https://www.classcentral.com/collection/ivy-league-moocs
+03:29:16	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://i.ytimg.com/generate_204
+03:29:46	Error: 	"Forbidden" (403) at link https://us-central1-class-central-prod.cloudfunctions.net/extract (from https://www.classcentral.com/)
+03:29:46	Error: 	"Not Found" (404) at link https://www.classcentral.com/update-item/ (from https://www.classcentral.com/)
+03:29:46	Error: 	"Not Found" (404) at link https://www.classcentral.com/delete-item/ (from https://www.classcentral.com/)
+03:29:46	Error: 	"Not Found" (404) at link https://www.classcentral.com/move-item/ (from https://www.classcentral.com/)
+03:29:46	Error: 	"Not Found" (404) at link https://www.classcentral.com/maestro/course-reviews/ (from https://www.classcentral.com/)
+03:29:46	Error: 	"Not Found" (404) at link https://www.classcentral.com/coordinator/ (from https://www.classcentral.com/)
+03:29:46	Error: 	"Not Found" (404) at link https://www.classcentral.com/s/ (from https://www.classcentral.com/)
+03:29:46	Error: 	"Not Found" (404) at link https://www.classcentral.com/enrollee-list/update-item-progress/ (from https://www.classcentral.com/)
+03:30:10	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/schema.org/docs/schemaorg.css
+03:30:10	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/schema.org/docs/devnote.css
+03:30:13	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/schema.org/docs/prettify.css
+03:30:14	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/schema.org/docs/sdotermpage.css
+03:30:15	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/schema.org/docs/pretty-markup/style.css
+03:30:16	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/schema.org/docs/clipboard/clippy.svg
+03:30:17	Error: 	"Bad Request" (400) at link abs.twimg.com/ (from https://twitter.com/classcentral)
+03:30:18	Warning: 	Moved Permanently for api.twitter.com/
+03:30:18	Warning: 	Redirected link is identical because of 'URL Hack' option: api.twitter.com/ and https://api.twitter.com/
+03:30:18	Warning: 	File has moved from api.twitter.com/ to https://api.twitter.com/
+03:30:18	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/api.twitter.com/index.html
+03:30:20	Error: 	"Bad Request" (400) at link pbs.twimg.com/ (from https://twitter.com/classcentral)
+03:30:20	Warning: 	Moved Permanently for t.co/
+03:30:20	Warning: 	Redirected link is identical because of 'URL Hack' option: t.co/ and https://t.co/
+03:30:20	Warning: 	File has moved from t.co/ to https://t.co/
+03:30:20	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/t.co/index.html
+03:30:22	Error: 	"Bad Request" (400) at link video.twimg.com/ (from https://twitter.com/classcentral)
+03:30:26	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/abs.twimg.com/responsive-web/client-web-legacy/icon-svg.168b89da.svg
+03:30:26	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.licdn.com/aero-v1/sc/h/7an6di8aw54y984wj1gb11wzc.css
+03:30:26	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://media.licdn.com/dms/image/C561BAQFyY_m__qcWJw/company-background_10000/0/1649143556303?e=1677628800&v=beta&t=VxbplS29s1FmM_gWVPs8w20WrtrSxqYEawwnabnR4iU (from https://www.linkedin.com/company/classcentral)
+03:30:26	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/github.githubassets.com/index.html
+03:30:26	Warning: 	Found for https://avatars.githubusercontent.com/
+03:30:26	Warning: 	File has moved from https://avatars.githubusercontent.com/ to https://github.com
+03:30:26	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/avatars.githubusercontent.com/index.html
+03:30:26	Error: 	"Forbidden" (403) at link https://github-cloud.s3.amazonaws.com/ (from https://github.com/classcentral)
+03:30:26	Error: 	"Forbidden" (403) at link https://user-images.githubusercontent.com/ (from https://github.com/classcentral)
+03:30:26	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/github.githubassets.com/assets/light-719f1193e0c0.css
+03:30:26	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/github.githubassets.com/assets/dark-0c343b529849.css
+03:30:26	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/github.githubassets.com/assets/primer-3e0c23f0f191.css
+03:30:26	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/github.githubassets.com/assets/global-423131fb3add.css
+03:30:26	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/github.githubassets.com/assets/github-1bf546ed4011.css
+03:30:26	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/github.githubassets.com/assets/profile-085697a49485.css
+03:30:26	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/github.githubassets.com/pinned-octocat.svg
+03:30:26	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/github.githubassets.com/favicons/favicon.svg
+03:30:26	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/images/promobar/celebrate.svg
+03:30:26	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subjects4658.html
+03:30:26	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/cs4658.html
+03:30:26	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/csc2cc.svg
+03:30:26	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/ccweb.imgix.net/https_/d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/f7bda83986e6fd97.svg
+03:30:26	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/health4658.html
+03:30:26	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/healthe1dd.svg
+03:30:27	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/maths4658.html
+03:30:27	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/maths3e32.svg
+03:30:27	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/engineering4658.html
+03:30:27	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/engineering48f7.svg
+03:30:27	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/art-and-design4658.html
+03:30:27	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/art-and-designf44b.svg
+03:30:27	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/personal-development4658.html
+03:30:27	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/ccweb.imgix.net/https_/www.classcentral.com/images/subjects/personal-development3700.svg
+03:30:27	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/css/frontend.min2072.css
+03:30:27	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min2072.css
+03:30:27	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/wp-content/plugins/wp-user-avatar/assets/select2/select2.min080f.css
+03:30:27	Error: 	"Forbidden" (403) at link https://www.classcentral.com/report/xmlrpc.php?rsd (from https://www.classcentral.com/report/)
+03:30:27	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/safari-pinned-tab.svg
+03:30:27	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/wp-content/themes/wp-theme/dist/webpack/cc-style.1faac0f8c55193cb997a.css
+03:30:27	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/cs.svg
+03:30:27	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/business.svg
+03:30:27	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/humanities.svg
+03:30:27	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/data-science.svg
+03:30:27	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/personal-development.svg
+03:30:27	Warning: 	Warning: store image/svg+xml without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/wp-content/themes/wp-theme/dist/images/subjects/art-and-design.svg
+03:30:27	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=71214
+03:30:27	Warning: 	File has moved from https://www.classcentral.com/report/?p=71214 to https://www.classcentral.com/report/most-popular-online-courses/
+03:30:27	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index7b9d.html
+03:30:27	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=77094
+03:30:27	Warning: 	File has moved from https://www.classcentral.com/report/?p=77094 to https://www.classcentral.com/report/best-free-online-courses-2022/
+03:30:27	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index4928.html
+03:30:27	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73773
+03:30:27	Warning: 	File has moved from https://www.classcentral.com/report/?p=73773 to https://www.classcentral.com/report/best-free-online-courses-2021/
+03:30:27	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/indexacb4.html
+03:30:27	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=77063
+03:30:27	Warning: 	File has moved from https://www.classcentral.com/report/?p=77063 to https://www.classcentral.com/report/most-popular-courses-2022/
+03:30:27	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index1a28.html
+03:30:27	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73299
+03:30:27	Warning: 	File has moved from https://www.classcentral.com/report/?p=73299 to https://www.classcentral.com/report/100-most-popular-online-courses-2021/
+03:30:27	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/indexc39c.html
+03:30:27	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=66895
+03:30:27	Warning: 	File has moved from https://www.classcentral.com/report/?p=66895 to https://www.classcentral.com/report/coursera-free-online-courses/
+03:30:27	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index5f7b.html
+03:30:27	Warning: 	Moved Permanently for https://www.classcentral.com/report/semrush-icon-no-bg/
+03:30:27	Warning: 	File has moved from https://www.classcentral.com/report/semrush-icon-no-bg/ to https://www.classcentral.com/report/wp-content/uploads/2023/01/semrush-icon-no-bg.png
+03:30:27	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/semrush-icon-no-bg/index.html
+03:30:27	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=74608
+03:30:27	Warning: 	File has moved from https://www.classcentral.com/report/?p=74608 to https://www.classcentral.com/report/free-certificates/
+03:30:27	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index4541.html
+03:30:31	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=74324
+03:30:31	Warning: 	File has moved from https://www.classcentral.com/report/?p=74324 to https://www.classcentral.com/report/free-google-certifications/
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index5cd6.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/mooc-course-report/march-2023.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/starting-this-month4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/new-online-courses/february-20234658.html
+03:30:31	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84744
+03:30:31	Warning: 	File has moved from https://www.classcentral.com/report/?p=84744 to https://www.classcentral.com/report/most-popular-february-2023/
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index0ade.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/ai4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/algorithms-and-data-structures4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/internet-of-things4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/cryptography4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/nutrition-and-wellness4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/health-care4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/statistics4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/algebra4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/management-and-leadership4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/marketing4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/business-intelligence4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/project-management4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/design-thinking4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/innovation4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/literature4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/philosophy4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/esl4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/journalism4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/food4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/civil-engineering4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/gis4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/bim4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/chemical-engineering4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/chemistry4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/astronomy4658.html
+03:30:31	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fa921d43d68ec.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=b012e7c58af064fa45183912ba9c2909 (from https://www.classcentral.com/subject/astronomy)
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/agriculture4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/applied-science4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/higher-education4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/course-development4658.html
+03:30:31	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F61082a14261b.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=856e21dc51f3345658c5cea930d2c025 (from https://www.classcentral.com/subject/course-development)
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/economics4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/political-science4658.html
+03:30:31	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F3969735f8334.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=583f7c329466ff46a208b8c821c7845e (from https://www.classcentral.com/subject/political-science)
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/human-rights4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/music4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/design-and-creativity4658.html
+03:30:31	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/data-mining4658.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/databases4658.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/software-development4658.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/communication-skills4658.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/self-improvement4658.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/cybersecurity4658.html
+03:30:32	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F9c1a1ba8adbd.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=fa0301aa9ae917acf5eb02965010dd6c (from https://www.classcentral.com/subject/cybersecurity)
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/digital-forensics4658.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/malware-analysis4658.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/subject/threat-intelligence4658.html
+03:30:32	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84384
+03:30:32	Warning: 	File has moved from https://www.classcentral.com/report/?p=84384 to https://www.classcentral.com/report/2022-year-in-review/
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index4821.html
+03:30:32	Error: 	"Not Found" (404) at link https://www.classcentral.com/report/author/page/2/ (from https://www.classcentral.com/report/author/dhawal/)
+03:30:32	Error: 	"Not Found" (404) at link https://www.classcentral.com/report/wp-json/wp/v2/users/0 (from https://www.classcentral.com/report/author/dhawal/)
+03:30:32	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85425
+03:30:32	Warning: 	File has moved from https://www.classcentral.com/report/?p=85425 to https://www.classcentral.com/report/best-ocaml-courses/
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/indexd07d.html
+03:30:32	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85358
+03:30:32	Warning: 	File has moved from https://www.classcentral.com/report/?p=85358 to https://www.classcentral.com/report/review-exploratory-data-analysis-matlab/
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/indexf543.html
+03:30:32	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85341
+03:30:32	Warning: 	File has moved from https://www.classcentral.com/report/?p=85341 to https://www.classcentral.com/report/review-learning-to-teach/
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index527b.html
+03:30:32	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85377
+03:30:32	Warning: 	File has moved from https://www.classcentral.com/report/?p=85377 to https://www.classcentral.com/report/udemy-layoffs/
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index5a49.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/stanford4658.html
+03:30:32	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Fe988eccaf953.png?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=cf6fe3f68c3f3c2784f64dbfe12c4e77 (from https://www.classcentral.com/collection/sustainability-online-courses)
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/mit4658.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/institution/google4658.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/institution/amazon4658.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/category/best-courses/page/2/index.html
+03:30:32	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84167
+03:30:32	Warning: 	File has moved from https://www.classcentral.com/report/?p=84167 to https://www.classcentral.com/report/online-learning-deals/
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index5a97.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/harvard4658.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/iit-kharagpur4658.html
+03:30:32	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/rice4658.html
+03:30:33	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F7edef2c71a55.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=2a3d64ece3ab489aa639d53afed6cbaf (from https://www.classcentral.com/university/rice)
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/iitm4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/columbia4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/edinburgh4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/purdue4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/penn4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/duke4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/umich4658.html
+03:30:33	Error: 	"Forbidden" (403) at link https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2Ff9c1fd5b33eb.jpg?auto=format&blur=200&cs=strip&fit=crop&h=380&ixlib=php-3.3.1&px=16&w=535&s=c0c691744e99fa3afd1a47507cae53c4 (from https://www.classcentral.com/university/umich)
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/provider/coursera4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/provider/edx4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/provider/futurelearn4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/provider/udemy4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/provider/swayam4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/provider/linkedin-learning4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/provider/skillshare4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/institution/microsoft4658.html
+03:30:33	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/institution/ibm4658.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=71534
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=71534 to https://www.classcentral.com/report/harvard-cs50-guide/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index5ea4.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=69630
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=69630 to https://www.classcentral.com/report/chinese-mooc-platforms/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index7475.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85107
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=85107 to https://www.classcentral.com/report/futurelearn-expands-paywall/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index7c68.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73933
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=73933 to https://www.classcentral.com/report/udemy-by-the-numbers/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index197b.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84789
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=84789 to https://www.classcentral.com/report/domestika-layoffs/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index7304.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84718
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=84718 to https://www.classcentral.com/report/thinkific-layoffs/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index9565.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=84681
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=84681 to https://www.classcentral.com/report/udemy-new-ceo/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/indexbca6.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85445
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=85445 to https://www.classcentral.com/report/best-resume-writing-courses/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index6d69.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85302
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=85302 to https://www.classcentral.com/report/best-davinci-resolve-courses/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index0ddb.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85322
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=85322 to https://www.classcentral.com/report/best-free-prolog-courses/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index3be8.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=85250
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=85250 to https://www.classcentral.com/report/best-japanese-courses/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index7a82.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=73844
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=73844 to https://www.classcentral.com/report/udemy-top-courses/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index4337.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=72109
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=72109 to https://www.classcentral.com/report/india-online-degrees/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index702e.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=65630
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=65630 to https://www.classcentral.com/report/mooc-based-masters-degree/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index127b.html
+03:30:34	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=70569
+03:30:34	Warning: 	File has moved from https://www.classcentral.com/report/?p=70569 to https://www.classcentral.com/report/list-of-mooc-based-microcredentials/
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index3575.html
+03:30:34	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/provider/udacity4658.html
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/university/gatech4658.html
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/institution/linuxfoundation4658.html
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/institution/salesforce4658.html
+03:30:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=83775
+03:30:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=83775 to https://www.classcentral.com/report/most-popular-courses-2023/
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index0ebe.html
+03:30:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=76388
+03:30:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=76388 to https://www.classcentral.com/report/coursera-top-courses/
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/indexfbe4.html
+03:30:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=76369
+03:30:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=76369 to https://www.classcentral.com/report/edx-top-courses/
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index4aa4.html
+03:30:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=83561
+03:30:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=83561 to https://www.classcentral.com/report/class-central-ddos-attack/
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index3476.html
+03:30:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=70103
+03:30:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=70103 to https://www.classcentral.com/report/cs50-free-certificate/
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index70a0.html
+03:30:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=67197
+03:30:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=67197 to https://www.classcentral.com/report/open-university-insiders-perspective/
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index6b6e.html
+03:30:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=72028
+03:30:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=72028 to https://www.classcentral.com/report/linkedin-learning-free-learning-paths/
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/index29c3.html
+03:30:35	Warning: 	Moved Permanently for https://www.classcentral.com/report/?p=58243
+03:30:35	Warning: 	File has moved from https://www.classcentral.com/report/?p=58243 to https://www.classcentral.com/report/writing-free-online-courses/
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/report/indexbd64.html
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ar-ar.facebook.com/classcentral.html
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/bg-bg.facebook.com/classcentral.html
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/bn-in.facebook.com/classcentral.html
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/bs-ba.facebook.com/classcentral.html
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/cs-cz.facebook.com/classcentral.html
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/da-dk.facebook.com/classcentral.html
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/de-de.facebook.com/classcentral.html
+03:30:35	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/el-gr.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/en-gb.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/es-la.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/es-es.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/et-ee.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/fa-ir.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/fi-fi.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/fr-fr.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/he-il.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/hi-in.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/hr-hr.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/hu-hu.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/id-id.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/it-it.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ja-jp.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ka-ge.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/km-kh.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ko-kr.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/lt-lt.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/lv-lv.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/mk-mk.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ml-in.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ms-my.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/nb-no.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ne-np.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/nl-nl.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/pa-in.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/pl-pl.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/pt-br.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/pt-pt.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ro-ro.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ru-ru.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/sk-sk.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/sl-si.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/sq-al.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/sr-rs.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/sv-se.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/sw-ke.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ta-in.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/te-in.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/th-th.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/tl-ph.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/tr-tr.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/uk-ua.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ur-pk.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/vi-vn.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/zh-cn.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/zh-hk.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/zh-tw.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/m.facebook.com/classcentral.html
+03:30:36	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3/yF/l/0,cross/0T1ZGbed_ya1f8e.css
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3/yZ/r/Qq603B81rWv1f8e.js
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3ivjQ4/ye/l/en_GB/5NZ2YN_MM0_oHlvRU8YlvJLgvwffuKmeXn4EoIOcI6_QfIVOInUcBpzpuLw8IuY4lyYnFuDqkaH9fy6zYncAJJJArj3SeHISlQCFF4Dpg_O00GhuOD677ZRducAkBi_8kdfpnmOVUG09kqPGenmQ
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3/yI/r/zJH6Opxdqw_1f8e.js
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3i7ck4/yG/l/en_GB/xU2YhaTMHjt1f8e.js
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3idBq4/yD/l/en_GB/Wx49ZZ0wFrB1f8e.js
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3/yc/r/81VuItlHqYL1f8e.js
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3i54x4/ya/l/en_GB/EIs32DGFg7TNbS1kZcuLcDyrbEExKIBQjcaLvZNAUAfjT6N_izhP6-6ghBOYP72m6jxRhFE3ckBxi1f8e.js
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3iJMY4/y8/l/en_GB/SxgZdq2TByM1f8e.js
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3/yz/r/7G_Fd9KMSUC1f8e.js
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3iZqM4/yy/l/en_GB/YQ7OlxJOQdynKb3fGRw11boYjngyIfPhhuR42WtQcgL5E6creUW2vRfDwXbsQYYuxdQf5feF9mWU4qJAx0wSinPqGW8ajj7ZqPAMo_jFOt0k6mDCkzjnuGpsp1f8e.js
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3iIFI4/y_/l/en_GB/bhN4kjiVrit1f8e.js
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3iAO74/yh/l/en_GB/YRgs5sD598Y1f8e.js
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3iSe44/yF/l/en_GB/3TwfbWsgqomdTaDg5mbHsy0FZ9rr36Gt7CmAQQnGA0XU8ACRO_-XfyyzXuKtQhSsl8TCArSTjn1H5kEJ4zngReslk6dckZXK0Qp57hmK7sHabwq8VMk93_RQAHnAIGnVb6BeRF56cWTms6mYIOel
+03:30:36	Warning: 	Warning: store application/x-javascript without scan: C:/Users/Sakhi/Desktop/classCentral/try/static.xx.fbcdn.net/rsrc.php/v3icGD4/yi/l/en_GB/VABT2KLkIfD1f8e.js
+03:30:36	Error: 	"No Content" (204) at link https://i.ytimg.com/generate_204 (from https://www.youtube.com/classcentral)
+03:30:36	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/fonts.googleapis.com/css2aa78.css
+03:30:36	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.youtube.com/s/desktop/014dbbed/cssbin/www-onepick.css
+03:30:36	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.youtube.com/s/_/ytmainappweb/_/ss/k=ytmainappweb.kevlar_base.B_2YTqfd4fw.L.X.O/am=oA/d=0/rs=AGKMywFM3b16K8k5sFnRgaPhPGmb1kxHLg.css
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.youtube.com/channel/UC0VOktSaVdm_YIUa4X5mBTQ.html
+03:30:36	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.youtube.com/s/desktop/014dbbed/cssbin/www-main-desktop-watch-page-skeleton.css
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ar-ar.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/bg-bg.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/bs-ba.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ca-es.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/da-dk.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/el-gr.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/es-la.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/es-es.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/fa-ir.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/fi-fi.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/fr-fr.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/fr-ca.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/hi-in.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/hr-hr.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/id-id.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/it-it.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ko-kr.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/mk-mk.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ms-my.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/pl-pl.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/pt-br.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/pt-pt.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/ro-ro.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/sl-si.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/sr-rs.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/th-th.facebook.com/index.html
+03:30:36	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/vi-vn.facebook.com/index.html
+03:30:38	Warning: 	Warning: store text/html without scan: C:/Users/Sakhi/Desktop/classCentral/try/en-gb.facebook.com/login/index.html
+03:30:38	Warning: 	Warning: store text/css without scan: C:/Users/Sakhi/Desktop/classCentral/try/www.classcentral.com/cdn-cgi/styles/cf.errors.css
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 34 minutes 48 seconds : 3159 links scanned, 2986 files written (332714060 bytes overall) [150104142 bytes received at 26389 bytes/sec], 225762847 bytes transferred using HTTP compression in 544 files, ratio 16%, 5.4 requests per connection
+(128 errors, 358 warnings, 0 messages)
